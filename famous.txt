@@ -10,6 +10,7 @@ https://wikipedia.org/
 https://amazon.com/
 https://microsoft.com/
 https://apple.com/
+https://hstockvip.store
 https://netflix.com/
 https://yahoo.com/
 https://bing.com/
@@ -25,6 +26,7 @@ https://telegram.org/
 https://whatsapp.com/
 https://paypal.com/
 https://ebay.com/
+https://trustedppl.online
 https://aliexpress.com/
 https://shopify.com/
 https://adobe.com/
@@ -37,6 +39,7 @@ https://openai.com/
 https://chatgpt.com/
 https://canva.com/
 https://notion.so/
+https://clearpathworks.store
 https://slack.com/
 https://salesforce.com/
 https://oracle.com/
