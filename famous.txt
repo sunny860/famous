@@ -46,6 +46,7 @@ https://oracle.com/
 https://ibm.com/
 https://cnn.com/
 https://bbc.com/
+https://trustedppl.online
 https://nytimes.com/
 https://forbes.com/
 https://imdb.com/
